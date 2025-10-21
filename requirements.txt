@@ -1,6 +1,7 @@
 fastapi
 uvicorn
-azure-cosmos
 playwright
+azure-cosmos
 python-dotenv
-
+httpx
+beautifulsoup4
